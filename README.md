@@ -1,7 +1,7 @@
 **Hi! I'm Alok. 👋**
 
 I love solving real-world problems through code.
-As a third-year B.Tech Computer Science student, I’m passionate about building meaningful software that bridges ideas and impact.
+As a final-year B.Tech Computer Science student, I’m passionate about building meaningful software that bridges ideas and impact.
 
 **What I’m up to:**
 - Building tools that solve everyday problems.
